@@ -1,4 +1,4 @@
-# test-task
+# test-task (by Pavel Leonovich)
 UI/API test project created in order to pass an interview in IDF company. 4 test suites were implemented:
 
 ------------------
